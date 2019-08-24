@@ -14,11 +14,7 @@ public class Main {
 
         System.out.println("Koniec programu");
         System.out.println("Koniec programu");
-        System.out.println("Koniec programu");
-        System.out.println("Koniec programu");
-        System.out.println("Koniec programu");
-
-        System.out.println("Program start ZZZZZZ");
+        System.out.println("Koniec programu");System.out.println("Program start ZZZZZZ");
         System.out.println("Program start ZZZZZZ");
         System.out.println("Program start ZZZZZZ");
         System.out.println("Program start ZZZZZZ");
