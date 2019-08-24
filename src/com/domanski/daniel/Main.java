@@ -3,8 +3,7 @@ package com.domanski.daniel;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Program start!!!XXX");
-        System.out.println("Program start ZZZZZZ");
+        
 
         System.out.println("Linia kodu");
 
@@ -12,16 +11,7 @@ public class Main {
             System.out.println(i);
         }
 
-        System.out.println("Koniec programu");
-        System.out.println("Koniec programu");
-        System.out.println("Koniec programu");System.out.println("Program start ZZZZZZ");
-        System.out.println("Program start ZZZZZZ");
-        System.out.println("Program start ZZZZZZ");
-        System.out.println("Program start ZZZZZZ");
-
-        System.out.println("Program start ZZZZZZ");
-        System.out.println("Program start ZZZZZZ");System.out.println("Program start ZZZZZZ");
-        System.out.println("Program start ZZZZZZ");
+        
 
 
 
